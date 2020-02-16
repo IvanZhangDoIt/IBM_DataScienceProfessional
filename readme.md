@@ -1,2 +1,2 @@
 # Data Science Cases
-## 1. IBM Data Science Professional
+## 1. IBM Data Science Professional from Coursera
